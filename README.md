@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Vyldrix" target="blank">
+<h1 align="center">Hola 👋, Soy <a href="https://github.com/Vyldrix" target="blank">
 Lautaro Loyola</a></h1>
 
 <h3 align="center">Estudiante De Programación Full-Stack
